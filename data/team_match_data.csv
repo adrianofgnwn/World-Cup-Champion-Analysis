@@ -1,4 +1,4 @@
-match_id,year,date,stage,team,opponent,is_home,goals,goals_conceded,xg,xg_against,possession,shots,shots_on_target,corners,fouls,yellow_cards,red_cards,opp_shots,opp_shots_on_target,won_match,attendance,is_champion
+pimatch_id,year,date,stage,team,opponent,is_home,goals,goals_conceded,xg,xg_against,possession,shots,shots_on_target,corners,fouls,yellow_cards,red_cards,opp_shots,opp_shots_on_target,won_match,attendance,is_champion
 WC-1974-001,1974,1974-06-13,Group 1,Brazil,Yugoslavia,1,0,0,1.8,1.2,58,14,5,6,12,1,0,9,3,0,62000,0
 WC-1974-001,1974,1974-06-13,Group 1,Yugoslavia,Brazil,0,0,0,1.2,1.8,42,9,3,4,15,2,0,14,5,0,62000,0
 WC-1974-038,1974,1974-07-07,Final,West Germany,Netherlands,1,2,1,1.5,2.1,47,11,6,5,18,3,0,17,7,1,80000,1

@@ -1,0 +1,73 @@
+============================================================
+WHAT MAKES A WORLD CUP CHAMPION?
+A Machine Learning Analysis of FIFA World Cup 1974-2022
+============================================================
+
+1. THE QUESTION
+----------------------------------------
+What statistical profile separates World Cup champions
+from every other team in the tournament?
+We analyzed 86 team-match performances across 13 World Cups.
+
+2. THE CHAMPION DNA
+----------------------------------------
+Champions consistently show 4 key traits:
+
+  TRAIT 1: CLINICAL FINISHING
+  Champions convert 15.1% of shots vs 9.7%
+  Shot accuracy: 47.5% vs 37.3%
+  → They don't just shoot more, they score more efficiently.
+
+  TRAIT 2: DEFENSIVE SOLIDITY
+  Save rate: 93.5% vs 87.0%
+  Goals conceded: 0.79 vs 1.92 per match
+  Concede 0.45 fewer goals than expected (xG)
+  → Champions are extremely hard to score against.
+
+  TRAIT 3: THE CLUTCH FACTOR
+  xG Overperformance: +0.19 vs -0.13
+  → Champions score MORE than the stats say they should.
+    Whether it's composure, star quality, or luck — they deliver.
+
+  TRAIT 4: MATCH DOMINANCE
+  Avg goal difference: +1.5 vs -0.6
+  Shot dominance ratio: 1.75 vs 1.30
+  Possession: 53.5% vs 48.6%
+  → Champions control matches, not just survive them.
+
+3. WHAT DOESN'T MATTER
+----------------------------------------
+  Discipline: Champions avg 2.67 vs 2.85
+  → Virtually identical. Being 'cleaner' doesn't make you a champion.
+
+4. ML MODEL RESULTS
+----------------------------------------
+  Best model: Logistic Regression
+  Leave-One-Out CV Accuracy: 77.9%
+  ROC-AUC: 84.7%
+  Champion detection: 18/24 matches correctly identified (75%)
+
+  Top predictive features (Random Forest importance):
+    1. Shot Accuracy
+    2. Goal Difference
+    3. Expected Goals (xG)
+    4. Stage Level (knockout rounds)
+    5. Defensive xG Overperformance
+
+5. LIMITATIONS
+----------------------------------------
+  - Small dataset: 43 curated matches, not every World Cup game
+  - Some champions have only 1 match in the data
+  - xG data for older tournaments (1974-1990) may be estimated
+  - Results reflect correlation, not necessarily causation
+
+6. FOR THE 2026 WORLD CUP
+----------------------------------------
+  Teams to watch should match this champion profile:
+    → Convert 15%+ of shots into goals
+    → Keep 93%+ defensive save rate
+    → Overperform their xG (the clutch factor)
+    → Maintain 53%+ possession
+    → Outshoot opponents by 1.7x ratio
+
+============================================================
