@@ -14,7 +14,7 @@ import os
 # -------------------------------------------------------
 # 1. Load the reshaped data from Step 1
 # -------------------------------------------------------
-data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'team_match_data.csv')
+data_path = os.path.join(os.path.dirname(__file__), '../..', 'data', 'team_match_data.csv')
 df = pd.read_csv(data_path)
 
 print("=" * 50)
@@ -146,7 +146,7 @@ for feat in new_features:
 # -------------------------------------------------------
 # 8. Save
 # -------------------------------------------------------
-output_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'team_match_featured.csv')
+output_path = os.path.join(os.path.dirname(__file__), '../..', 'data', 'team_match_featured.csv')
 df.to_csv(output_path, index=False)
 
 print(f"\n✅ Saved to data/team_match_featured.csv ({df.shape[0]} rows, {df.shape[1]} columns)")

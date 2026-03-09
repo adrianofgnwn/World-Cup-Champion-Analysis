@@ -14,7 +14,7 @@ import os
 # -------------------------------------------------------
 # 1. Load the raw data
 # -------------------------------------------------------
-raw_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'fifa_world_cup_enhanced_1974_2022.csv')
+raw_path = os.path.join(os.path.dirname(__file__), '../..', 'data', 'fifa_world_cup_enhanced_1974_2022.csv')
 df = pd.read_csv(raw_path)
 
 print("=" * 50)
@@ -140,6 +140,6 @@ print(sample[['team', 'opponent', 'stage', 'goals', 'goals_conceded',
 # -------------------------------------------------------
 # 5. Save
 # -------------------------------------------------------
-output_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'team_match_data.csv')
+output_path = os.path.join(os.path.dirname(__file__), '../..', 'data', 'team_match_data.csv')
 team_df.to_csv(output_path, index=False)
 print(f"\n✅ Saved to data/team_match_data.csv ({team_df.shape[0]} rows, {team_df.shape[1]} columns)")

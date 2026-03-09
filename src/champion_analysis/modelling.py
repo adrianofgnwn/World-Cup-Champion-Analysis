@@ -31,8 +31,8 @@ from sklearn.metrics import (
 # -------------------------------------------------------
 # 1. Load data and select features
 # -------------------------------------------------------
-data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'team_match_featured.csv')
-output_dir = os.path.join(os.path.dirname(__file__), '..', 'outputs')
+data_path = os.path.join(os.path.dirname(__file__), '../..', 'data', 'team_match_featured.csv')
+output_dir = os.path.join(os.path.dirname(__file__), '../..', 'outputs')
 os.makedirs(output_dir, exist_ok=True)
 
 df = pd.read_csv(data_path)
