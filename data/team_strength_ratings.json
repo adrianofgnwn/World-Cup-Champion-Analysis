@@ -1,0 +1,338 @@
+[
+  {
+    "team": "Argentina",
+    "group": "J",
+    "elo": 1873,
+    "strength": 96.5,
+    "form": 90.2
+  },
+  {
+    "team": "Spain",
+    "group": "H",
+    "elo": 1877,
+    "strength": 95.8,
+    "form": 85.9
+  },
+  {
+    "team": "France",
+    "group": "I",
+    "elo": 1870,
+    "strength": 90.6,
+    "form": 72.1
+  },
+  {
+    "team": "England",
+    "group": "L",
+    "elo": 1834,
+    "strength": 88.9,
+    "form": 82.5
+  },
+  {
+    "team": "Netherlands",
+    "group": "F",
+    "elo": 1756,
+    "strength": 79.2,
+    "form": 85.2
+  },
+  {
+    "team": "Portugal",
+    "group": "K",
+    "elo": 1760,
+    "strength": 78.9,
+    "form": 82.5
+  },
+  {
+    "team": "Brazil",
+    "group": "C",
+    "elo": 1760,
+    "strength": 77.4,
+    "form": 77.4
+  },
+  {
+    "team": "Morocco",
+    "group": "C",
+    "elo": 1736,
+    "strength": 76.2,
+    "form": 84.5
+  },
+  {
+    "team": "Belgium",
+    "group": "G",
+    "elo": 1730,
+    "strength": 73.8,
+    "form": 79.1
+  },
+  {
+    "team": "Germany",
+    "group": "E",
+    "elo": 1724,
+    "strength": 73.5,
+    "form": 80.8
+  },
+  {
+    "team": "Croatia",
+    "group": "L",
+    "elo": 1716,
+    "strength": 72.2,
+    "form": 79.8
+  },
+  {
+    "team": "Senegal",
+    "group": "I",
+    "elo": 1706,
+    "strength": 72.1,
+    "form": 84.2
+  },
+  {
+    "team": "Colombia",
+    "group": "K",
+    "elo": 1701,
+    "strength": 70.9,
+    "form": 82.2
+  },
+  {
+    "team": "Japan",
+    "group": "F",
+    "elo": 1650,
+    "strength": 69.3,
+    "form": 100.0
+  },
+  {
+    "team": "Italy",
+    "group": "B",
+    "elo": 1702,
+    "strength": 68.6,
+    "form": 74.1
+  },
+  {
+    "team": "Uruguay",
+    "group": "H",
+    "elo": 1672,
+    "strength": 65.1,
+    "form": 76.4
+  },
+  {
+    "team": "Switzerland",
+    "group": "B",
+    "elo": 1654,
+    "strength": 62.8,
+    "form": 76.4
+  },
+  {
+    "team": "USA",
+    "group": "D",
+    "elo": 1681,
+    "strength": 62.5,
+    "form": 63.3
+  },
+  {
+    "team": "Mexico",
+    "group": "A",
+    "elo": 1675,
+    "strength": 62.0,
+    "form": 64.6
+  },
+  {
+    "team": "Iran",
+    "group": "G",
+    "elo": 1617,
+    "strength": 60.4,
+    "form": 85.2
+  },
+  {
+    "team": "South Korea",
+    "group": "A",
+    "elo": 1599,
+    "strength": 59.5,
+    "form": 90.6
+  },
+  {
+    "team": "Denmark",
+    "group": "A",
+    "elo": 1616,
+    "strength": 57.5,
+    "form": 76.1
+  },
+  {
+    "team": "Austria",
+    "group": "J",
+    "elo": 1585,
+    "strength": 54.8,
+    "form": 81.1
+  },
+  {
+    "team": "Australia",
+    "group": "D",
+    "elo": 1574,
+    "strength": 53.6,
+    "form": 82.2
+  },
+  {
+    "team": "Ecuador",
+    "group": "E",
+    "elo": 1591,
+    "strength": 53.5,
+    "form": 74.1
+  },
+  {
+    "team": "Turkey",
+    "group": "D",
+    "elo": 1582,
+    "strength": 52.6,
+    "form": 75.4
+  },
+  {
+    "team": "Algeria",
+    "group": "J",
+    "elo": 1560,
+    "strength": 52.4,
+    "form": 84.5
+  },
+  {
+    "team": "Norway",
+    "group": "I",
+    "elo": 1553,
+    "strength": 51.7,
+    "form": 85.2
+  },
+  {
+    "team": "Egypt",
+    "group": "G",
+    "elo": 1556,
+    "strength": 49.6,
+    "form": 76.8
+  },
+  {
+    "team": "Ukraine",
+    "group": "F",
+    "elo": 1557,
+    "strength": 48.0,
+    "form": 71.0
+  },
+  {
+    "team": "Canada",
+    "group": "B",
+    "elo": 1559,
+    "strength": 46.3,
+    "form": 64.6
+  },
+  {
+    "team": "Panama",
+    "group": "L",
+    "elo": 1539,
+    "strength": 45.8,
+    "form": 72.1
+  },
+  {
+    "team": "Scotland",
+    "group": "C",
+    "elo": 1533,
+    "strength": 44.4,
+    "form": 70.0
+  },
+  {
+    "team": "South Africa",
+    "group": "A",
+    "elo": 1512,
+    "strength": 44.2,
+    "form": 78.8
+  },
+  {
+    "team": "Paraguay",
+    "group": "D",
+    "elo": 1528,
+    "strength": 41.6,
+    "form": 63.0
+  },
+  {
+    "team": "Saudi Arabia",
+    "group": "H",
+    "elo": 1500,
+    "strength": 41.5,
+    "form": 75.1
+  },
+  {
+    "team": "Tunisia",
+    "group": "F",
+    "elo": 1498,
+    "strength": 41.3,
+    "form": 75.4
+  },
+  {
+    "team": "Uzbekistan",
+    "group": "K",
+    "elo": 1489,
+    "strength": 40.3,
+    "form": 76.1
+  },
+  {
+    "team": "Haiti",
+    "group": "C",
+    "elo": 1470,
+    "strength": 38.8,
+    "form": 79.8
+  },
+  {
+    "team": "Ghana",
+    "group": "L",
+    "elo": 1460,
+    "strength": 36.2,
+    "form": 75.8
+  },
+  {
+    "team": "Iraq",
+    "group": "I",
+    "elo": 1450,
+    "strength": 34.6,
+    "form": 74.7
+  },
+  {
+    "team": "Qatar",
+    "group": "B",
+    "elo": 1434,
+    "strength": 33.0,
+    "form": 76.8
+  },
+  {
+    "team": "New Zealand",
+    "group": "G",
+    "elo": 1440,
+    "strength": 32.7,
+    "form": 72.7
+  },
+  {
+    "team": "Jordan",
+    "group": "J",
+    "elo": 1427,
+    "strength": 29.6,
+    "form": 68.4
+  },
+  {
+    "team": "Cote d'Ivoire",
+    "group": "E",
+    "elo": 1467,
+    "strength": 29.5,
+    "form": 50.0
+  },
+  {
+    "team": "DR Congo",
+    "group": "K",
+    "elo": 1450,
+    "strength": 27.2,
+    "form": 50.0
+  },
+  {
+    "team": "Curacao",
+    "group": "E",
+    "elo": 1382,
+    "strength": 18.0,
+    "form": 50.0
+  },
+  {
+    "team": "Cabo Verde",
+    "group": "H",
+    "elo": 1360,
+    "strength": 15.0,
+    "form": 50.0
+  }
+]
