@@ -10,6 +10,8 @@ This project analyzes **FIFA World Cup matches from 1974–2022** to identify th
 
 We then apply this champion profile to **score 2026 World Cup contenders** using recent international match data from 16 sources, including WC qualifiers, friendlies, Nations League, Euro 2024, Copa America 2024, and AFCON.
 
+🔗 **[View the Interactive Dashboard →](https://wc2026-predictor-theta.vercel.app)** · **[Dashboard Repo →](https://github.com/adrianofgnwn/World-Cup-Champion-Dashboard)**
+
 ## Research Questions
 
 1. *What statistical profile separates World Cup champions from every other team in the tournament?*
